@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep learning in python**
 
-- 📝 I regularly write articles on [https://theevocativeeye.blogspot.com/?m=1](https://theevocativeeye.blogspot.com/?m=1)
+- 📝 I write articles on [https://theevocativeeye.blogspot.com/?m=1](https://theevocativeeye.blogspot.com/?m=1)
 
 - 💬 Ask me about **Java, Nodejs, Python**
 
