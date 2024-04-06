@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taniya Agarwal</h1>
 <h3 align="center">A passionate and learning Software enthusiast.</h3>
-<img aligh="right" alt="Coder" width="400px" height="300px" src="https://media.istockphoto.com/id/903044512/vector/user-icon-vector-with-laptop-computer-female-person-profile-avatar-for-business-and-online.jpg?s=612x612&w=0&k=20&c=iLtKPgwQGblmh9pOgJxVDepyCYyxYnV29j5WEP28rOo="
+<img aligh="right" alt="Coder" width="300px" height="300px" src="https://media.istockphoto.com/id/903044512/vector/user-icon-vector-with-laptop-computer-female-person-profile-avatar-for-business-and-online.jpg?s=612x612&w=0&k=20&c=iLtKPgwQGblmh9pOgJxVDepyCYyxYnV29j5WEP28rOo="
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-evocative-eye&label=Profile%20views&color=0e75b6&style=flat" alt="the-evocative-eye" /> </p>
 
 - 🔭 I’m currently working on [Increasing precision of vehicle detection and tracking](https://github.com/the-evocative-eye/MiniProject1)
